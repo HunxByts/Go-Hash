@@ -25,5 +25,5 @@ python3 gohash.py
 
 <details>
 <summary>:zap: Author :</summary>
-- <a href="https://github.com/HunxByts">HunByts</a>
+- <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
 
