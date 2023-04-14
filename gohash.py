@@ -1,3 +1,9 @@
+#!/usr/bin/python
+# << CODE BY HUNXBYTS
+# << MAU RECODE ??? IZIN DULU LAH , MINIMAL TAG AKUN GITHUB MIMIN YANG MENGARAH KE AKUN INI, LEBIH ENAKNYA SIH FORK 
+# << KALAU DI ATAS TIDAK DI IKUTI MAKA AKAN MENDAPATKAN DOSA KARENA MIMIN GAK IKHLAS
+# “Wahai orang-orang yang beriman! Janganlah kamu saling memakan harta sesamamu dengan jalan yang batil,” (QS. An Nisaa': 29). Rasulullah SAW juga melarang umatnya untuk mengambil hak orang lain tanpa izin.
+
 import requests
 import json
 from sys import stderr
