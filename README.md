@@ -1,5 +1,5 @@
 # Go-Hash
-Algorithm identification tools on hashes like MD5, SHA1, SHA256, SHA512, MSQL
+Algorithm identification tools on hashes like MD5, SHA1, SHA256, SHA512, MYSQL
 
 <img src="https://github.com/HunxByts/Go-Hash/blob/main/asset/Go-Hash.png"/>
 
